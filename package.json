@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "are": "^0.0.1",
+    "colors": "^1.4.0",
+    "fake-useragent": "^1.0.1",
+    "header-generator": "^2.1.52",
+    "hpack": "^1.0.0",
+    "node-fetch": "^2.7.0",
+    "socks": "^2.8.3"
+  }
+}
